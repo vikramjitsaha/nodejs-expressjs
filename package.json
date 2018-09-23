@@ -1,0 +1,29 @@
+{
+  "name": "vikram-nodejs-expressjs-demo",
+  "version": "1.0.1",
+  "description": "This is my first nodejs project using expressjs for rest webservices",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "joi": "^13.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramjitsaha/nodejs-expressjs.git"
+  },
+  "keywords": [
+    "vikramjit",
+    "npm",
+    "projects"
+  ],
+  "author": "Vikramjit Saha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikramjitsaha/nodejs-expressjs/issues"
+  },
+  "homepage": "https://github.com/vikramjitsaha/nodejs-expressjs#readme"
+}
